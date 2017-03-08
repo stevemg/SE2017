@@ -1,2 +1,3 @@
 Hello Git World!
 For Pull Request, I added one more line(make some changes).
+For Synchronize test(Project repo -> My repo), I adde one more line(make more changes).
