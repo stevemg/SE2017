@@ -1,0 +1,2 @@
+Hello, I'm Conflict File.
+I was born from GitHub.
