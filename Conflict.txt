@@ -1,0 +1,3 @@
+Hello, I'm Conflict File.
+I was born from GitHub.
+But, This line is written from my PC.
